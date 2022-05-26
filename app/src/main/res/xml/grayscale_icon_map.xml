@@ -627,4 +627,5 @@
     <icon drawable="@drawable/newpipe" package="org.polymorphicshade.newpipe" name="NewPipe SponsorBlock" />
     <icon drawable="@drawable/syncthing" package="com.github.catfriend1.syncthingandroid" name="Syncthing-Fork" />
     <icon drawable="@drawable/tu_dortmund" package="de.tudortmund.app" name="TU Dortmund" />
+    <icon drawable="@drawable/quasseldroid" package="com.iskrembilen.quasseldroid" name="Quasseldroid" />
 </icons>
