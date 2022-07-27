@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="192"
+   height="192"
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="tu_dortmund.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview186"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.8697917"
+     inkscape:cx="96"
+     inkscape:cy="95.870794"
+     inkscape:window-width="1854"
+     inkscape:window-height="1052"
+     inkscape:window-x="66"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="matrix(1.1223344,0,0,1.1223344,58.585858,6.4958199e-7)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.312207px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -22.499998,126.91928 31.4887532,-0.12131 0.1225257,-60.595742 32.9590461,0.121176 -0.122525,60.110966 0.122525,0.60598 116.275583,-0.12132 -0.12255,116.58624 c 0,0 -0.61262,14.0582 16.05069,14.0582 16.6633,0 51.09264,0 51.09264,0 0,0 16.17322,0.96954 16.17322,-17.20919 0,-18.17873 -0.24505,-113.43526 -0.24505,-113.43526 l 32.95903,-0.12131 0.24504,117.91936 c 0,0 -1.1027,44.47729 -42.63845,44.84085 -41.53575,0.36357 -64.4478,0.48477 -64.4478,0.48477 0,0 -42.02583,-2.66621 -42.14837,-42.17465 -0.12242,-39.50845 0.12243,-86.77313 0.12243,-86.77313 H 42.070325 L 41.9478,241.68725 c 0,0 -0.857671,15.14897 17.520976,15.51254 18.37865,0.36356 18.37865,0.36356 18.37865,0.36356 0,0 3.308156,-0.36356 3.308156,3.15097 0,3.51456 0,26.05621 0,26.05621 0,0 1.102719,3.27216 -3.308156,3.39336 -4.410877,0.12106 -27.322924,-0.12119 -27.322924,-0.12119 0,0 -41.4132235,-1.21192 -41.5357481,-40.23559 C 8.8662282,210.78344 8.8662282,161.21612 8.8662282,161.21612 H -22.5 Z"
+       id="path1204" />
+  </g>
+</svg>
